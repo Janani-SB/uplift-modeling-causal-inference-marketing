@@ -1,0 +1,25 @@
+feature,importance_gain,importance_split
+spend,40800.0,1
+recency,7.332803614800657e-12,2
+history,3.6664018074003286e-12,2
+mens,0.0,0
+womens,0.0,0
+newbie,0.0,0
+visit,0.0,0
+history_segment_1) $0 - $100,0.0,0
+history_segment_2) $100 - $200,0.0,0
+history_segment_3) $200 - $350,0.0,0
+history_segment_4) $350 - $500,0.0,0
+history_segment_5) $500 - $750,0.0,0
+"history_segment_6) $750 - $1,000",0.0,0
+"history_segment_7) $1,000 +",0.0,0
+zip_code_Rural,0.0,0
+zip_code_Surburban,0.0,0
+zip_code_Urban,0.0,0
+channel_Multichannel,0.0,0
+channel_Phone,0.0,0
+channel_Web,0.0,0
+segment_Mens E-Mail,0.0,0
+segment_No E-Mail,0.0,0
+segment_Womens E-Mail,0.0,0
+treatment,0.0,0

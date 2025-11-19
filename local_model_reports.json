@@ -1,0 +1,202 @@
+{
+  "12097": {
+    "index": 12097,
+    "p1": 0.008579620379384664,
+    "p0": 0.008579620379384664,
+    "uplift": 0.0,
+    "top_features": [
+      {
+        "feature": "recency",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "history",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "mens",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "womens",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "newbie",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "visit",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "spend",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "history_segment_1) $0 - $100",
+        "effect_on_uplift": 0.0
+      }
+    ]
+  },
+  "44450": {
+    "index": 44450,
+    "p1": 0.008579620379384664,
+    "p0": 0.008579620379384664,
+    "uplift": 0.0,
+    "top_features": [
+      {
+        "feature": "recency",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "history",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "mens",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "womens",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "newbie",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "visit",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "spend",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "history_segment_1) $0 - $100",
+        "effect_on_uplift": 0.0
+      }
+    ]
+  },
+  "44421": {
+    "index": 44421,
+    "p1": 0.008579620379384664,
+    "p0": 0.008579620379384664,
+    "uplift": 0.0,
+    "top_features": [
+      {
+        "feature": "recency",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "history",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "mens",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "womens",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "newbie",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "visit",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "spend",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "history_segment_1) $0 - $100",
+        "effect_on_uplift": 0.0
+      }
+    ]
+  },
+  "56676": {
+    "index": 56676,
+    "p1": 0.008579620379384664,
+    "p0": 0.008579620379384664,
+    "uplift": 0.0,
+    "top_features": [
+      {
+        "feature": "recency",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "history",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "mens",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "womens",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "newbie",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "visit",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "spend",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "history_segment_1) $0 - $100",
+        "effect_on_uplift": 0.0
+      }
+    ]
+  },
+  "15177": {
+    "index": 15177,
+    "p1": 0.008579620379384664,
+    "p0": 0.008579620379384664,
+    "uplift": 0.0,
+    "top_features": [
+      {
+        "feature": "recency",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "history",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "mens",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "womens",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "newbie",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "visit",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "spend",
+        "effect_on_uplift": 0.0
+      },
+      {
+        "feature": "history_segment_1) $0 - $100",
+        "effect_on_uplift": 0.0
+      }
+    ]
+  }
+}
